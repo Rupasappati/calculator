@@ -1,0 +1,15 @@
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\bin\Debug\net6.0\calculator.exe
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\bin\Debug\net6.0\calculator.deps.json
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\bin\Debug\net6.0\calculator.dll
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\bin\Debug\net6.0\calculator.pdb
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.dll
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\refint\calculator.dll
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.pdb
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+F:\Bridgelabz\RFP\VS_Code\calculator\calculator\obj\Debug\net6.0\ref\calculator.dll
