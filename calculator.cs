@@ -13,7 +13,21 @@ namespace calculator
             int sum = num1 + num2;
             Console.WriteLine("adition is : {0}", sum);
         }
-    
+
+        public void Sub(int num1, int num2)
+        {
+            int diff = 0;
+
+            if (num1 >= num2)
+            {
+                diff = num1 - num2;
+            }
+            else if (num1 <= num2)
+            {
+                diff = num2 - num1;
+            }
+            Console.WriteLine("Subtraction of {0} - {1} = {2}", num1, num2, diff);
+        }
     }
 
 }

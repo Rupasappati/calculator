@@ -15,6 +15,7 @@ namespace calculator
             int num2 = Convert.ToInt32(Console.ReadLine());
 
             objCalc.Addition(num1, num2);
+            objCalc.Sub(num1, num2);
 
         }
     }
