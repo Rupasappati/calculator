@@ -28,6 +28,11 @@ namespace calculator
             }
             Console.WriteLine("Subtraction of {0} - {1} = {2}", num1, num2, diff);
         }
+        public void Mul(int num1, int num2)
+        {
+            Console.WriteLine("Multiplication of {0} x {1} = {2}", num1, num2, num1 * num2);
+        }
+
     }
 
 }
